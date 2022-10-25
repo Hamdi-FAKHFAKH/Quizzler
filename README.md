@@ -1,6 +1,5 @@
  # <img src='https://user-images.githubusercontent.com/98355331/197398245-396e2638-b476-4b3d-aef8-a571e5f90eec.png' widht= 80 height = 80>  Quizzer 
 
-A new Flutter project.
 
 ## Getting Started
 #### To clone the project locally on your machine, copy the URL of this repo and run the following command :
